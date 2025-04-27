@@ -17,7 +17,7 @@ export default function ContactPage() {
       </p>
 
       <form
-        action="https://formspree.io/f/{YOUR_FORM_ID}"
+        action="https://formspree.io/f/meogovpe"
         method="POST"
         className="contact-form"
       >
